@@ -1,0 +1,33 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #fff;
+    background: #8e4b4b;
+}
+
+
+
+.container-fluid {
+    padding: 60px 50px;
+}
+.p{
+    color: white;
+    background: white;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #0a0909;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+.navbar li a,
+.navbar .navbar-brand {
+    color: #fff !important;
+}
+
