@@ -16,9 +16,9 @@ $data = mysqli_query($conn,$sql);
 if ($data) {
     
 	
-	header("location: signin.php");
+header("location: signin.php");
 	
-
+ 
 	
 	
 } else {
